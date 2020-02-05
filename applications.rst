@@ -27,3 +27,4 @@ Applications
    fsm
    planning
    general
+   timesheets

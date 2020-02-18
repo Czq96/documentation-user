@@ -7,5 +7,4 @@ Timesheets
 .. toctree::
    :titlesonly:
 
-   timesheets/get_started
-   timesheets/compare
+   timesheets/overview
